@@ -5,9 +5,12 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Age Calculator</title>
         
-        <link href="css/style.css" type="text/css" rel="stylesheet">
+        <link href="/Calculator/css/style.css" type="text/css" rel="stylesheet">
     </head>
     <body>
+        <div class="center">
+            
+        
         <h1>Age Calculator</h1>
         
         <form action="age" method="post">
@@ -24,5 +27,7 @@
         <br>
         
         <a href= "http://localhost:8084/Calculator/arithmetic">Arithmetic Calculator</a>
+        
+        </div>
     </body>
 </html>
